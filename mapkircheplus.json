@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"kirche.plus"
+                 "value":"https:\/\/www.kirche.plus"
                 }],
          "type":"tilelayer",
          "visible":true,
