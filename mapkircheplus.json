@@ -207,6 +207,12 @@
          "id":26,
          "name":"R\u00f6demis",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/xn--kirche-rdemis-pmb.de\/2021\/01\/12\/das-digitale-ash\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
